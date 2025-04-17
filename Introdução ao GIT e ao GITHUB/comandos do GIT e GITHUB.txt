@@ -1,0 +1,36 @@
+cd = é para ir para um local especifico
+
+dir = lista todos os diretórios dentro da pasta que estamos situado
+
+c .. = volta para a pasta anterior
+
+cls ou ctrl+L = limpa a tela
+
+ls = lista todas as pastas dentro daquela em que estamos
+
+TAB = completa a palavra
+
+mkdir = cria uma pasta
+
+del = deleta tudo dentro da pasta
+
+rmdir = digita /S /Q para deletar o repositório
+
+mkdir = criar repositório
+
+git init = inicializa um repositório vazio
+
+git add * = tudo que foi criado, ele move para outra categoria
+
+git commit -m "escreve o texto de sua preferencia"=  aqui é criado um objeto
+
+git status = ajuda a monitorar o status dos arquivos
+
+mv= move o arquivo para outra pasta
+
+git push origin master= empurra o repositório do local para o remoto
+
+git pull origin master= puxar o repositório do local para o remoto
+
+
+https://github.com/MartaCSSantos/dio-desafio-github-primeiro-repositorio.git
