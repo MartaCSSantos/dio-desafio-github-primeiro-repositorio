@@ -1,0 +1,6 @@
+coloquei conteúdo na pasta no Git Bach dou git status, vai aparecer 
+em vermelho o conteudo que eu coloquei, depois eu dou um git add . 
+e depois um git status 
+depois git commit -m "um cometário"
+git status
+git push origin main
